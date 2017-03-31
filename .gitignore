@@ -90,3 +90,6 @@ ENV/
 
 # emacs
 *~
+
+# Downloaded data for notebooks
+data/
